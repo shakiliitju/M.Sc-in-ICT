@@ -1,3 +1,0 @@
-1. Practice TensorFlow in your Machine
-2. Practice TensorFlow with GPU  and explain
-3. Explain given codes

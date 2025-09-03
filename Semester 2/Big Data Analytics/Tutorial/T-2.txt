@@ -1,9 +1,0 @@
-Tutorial: 3.  Marks: 30
-
-1.What are the differences between Hadoop and Spark?
-
-
-2.How does an Application Work in Spark?
-
-
-3.How does a Standalone Cluster Manager in Spark work?
